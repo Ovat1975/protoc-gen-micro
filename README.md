@@ -5,7 +5,7 @@ This is protobuf code generation for micro. We use protoc-gen-micro to reduce bo
 ## Install
 
 ```
-go get github.com/dwiajik/protoc-gen-micro
+go get github.com/Ovat1975/protoc-gen-micro
 ```
 
 Also required: 
